@@ -14,9 +14,6 @@ All this things has been done.
 
 6.Edit employee profile (with jquery validation).
 
- 
-
- 
 Database : employee.sql
  
 Some credential to login system
